@@ -1,4 +1,4 @@
-## Welcome to Tractor
+# Welcome to Tractor
 
 You can use the [editor on GitHub](https://github.com/jorgeviz/tractor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
